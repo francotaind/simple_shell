@@ -1,1 +1,1 @@
- A simple command line interpreter that mimics the normal shell
+ A simple command line interpreter that mimics the normal shell program
