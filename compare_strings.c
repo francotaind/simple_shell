@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
-  * string_compare - compares two strings.
-  * @s1: first string.
-  * @s2: second string.
-  * Return: difference of the two strings.
+  * string_compare - compares two strings
+  * @s1: the first string
+  * @s2: second string
+  * Return: difference of the two strings
   */
 int string_compare(char *s1, char *s2)
 {
