@@ -13,7 +13,7 @@ char *path_search(char *cmd);
 char *string_combine(char *dest, char *src, int n);
 int str_len(char *pointer);
 char *strjoin(char *dest, char *src);
-char *str_loc(char *s, char c);
+char *str_locater(char *s, char c);
 void print_environ(void);
 int string_compare(char *s1, char *s2);
 char **parse_str(char *buffer);
