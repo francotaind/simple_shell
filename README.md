@@ -1,1 +1,1 @@
-0x16. C - Simple Shell
+Mimic of the bash shell.
